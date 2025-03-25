@@ -17,3 +17,5 @@
 # MAINLY I PREDICTED POSITIVE TWEET 
 
 # OUTPUT
+
+![Image](https://github.com/user-attachments/assets/a655c15e-dd24-4b8a-9bb8-b37f62e8f501)
